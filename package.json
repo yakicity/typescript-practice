@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yakicity/tsc-stady/issues"
   },
-  "homepage": "https://github.com/yakicity/tsc-stady#readme"
+  "homepage": "https://github.com/yakicity/tsc-stady#readme",
+  "devDependencies": {
+    "typescript":"^4.3.5"
+  }
 }
