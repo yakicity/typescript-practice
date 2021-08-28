@@ -18,6 +18,8 @@ module.exports = {
       'eslint:recommended',
       'plugin:@typescript-eslint/recommended',
       'plugin:@typescript-eslint/recommended-requiring-type-checking',
+      'prettier',
+      //'prettier/@typescript-eslint', // eslint-config-prettierがv8.0.0以上の場合不要です
     ],
     rules: {
     },

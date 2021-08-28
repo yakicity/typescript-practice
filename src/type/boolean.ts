@@ -1,6 +1,6 @@
 export {};
-
-let name = 'typescript'
+//プリミティブ型…boolean,numberなど基礎的なやつ
+let name = 'typescript';
 //グローバル空間にすでに宣言されている変数を使ってしまうというエラーを回避したいので
 //このファイルをモジュール化する…先頭にexportを書いている。
 let isFinished: boolean = true;
